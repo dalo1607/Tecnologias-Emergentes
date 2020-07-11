@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-T02_E02 Scape Room terminado",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
